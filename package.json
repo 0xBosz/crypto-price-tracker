@@ -1,0 +1,17 @@
+{
+  "name": "crypto-price-tracker",
+  "version": "1.0.0",
+  "description": "Discord bot track coin price",
+  "author": {
+    "name": "0xBosz"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  }
+}
